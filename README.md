@@ -1,8 +1,5 @@
-# Analise-de-Dados
-Meus Projetos Diarios de Analise de Dados
-1)Projeto 
-Objetivo:Descobrir Qual Pais Mais Paga Anualmente
-Tecnologias Usadas:Python,Pandas,Plotly Express
-Como Executar:Baixar o Banco de Dados que eu Vou deixar o Site aonde eu o Baixei aqui https://www.kaggle.com/datasets/alitaqishah/ai-jobs-market-2025-2026-salaries logo depois disso pegar o banco de dadose praticar o Codigo 
-Insights:Descobri que os 10 Paises que Mais Pagam na Sequencia e :USA,Uk,Canada,Alemanha,Australia,Suica,Holanda,Japao,Singapura,France
-PS:Fiz o Meu Codigo num Arquivo de ipynb/e o 2 e Global Nao o coloquei pois Sao Varios Paises Unidos 
+📊 Dashboard interativo de análise salarial na área de Inteligência Artificial.
+
+Este projeto foi desenvolvido com Python, Pandas e Streamlit para explorar dados de empregos em IA (2025-2026), permitindo a análise de salários por cargo, país e nível de experiência.
+
+O dashboard conta com filtros dinâmicos, métricas em tempo real e visualizações interativas para geração de insights sobre o mercado de trabalho em tecnologia.
